@@ -1,0 +1,23 @@
+{
+  "name": "ryan",
+  "version": "1.0.0",
+  "description": "angular todo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanWare1987/angular-todo.git"
+  },
+  "keywords": [
+    "angular",
+    "todo"
+  ],
+  "author": "ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanWare1987/angular-todo/issues"
+  },
+  "homepage": "https://github.com/RyanWare1987/angular-todo#readme"
+}
