@@ -1,0 +1,22 @@
+{
+  "name": "ryan",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ryan Ware"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/RyanWare1987/angular-todo.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.9",
+    "angular-route": "^1.5.9"
+  }
+}
